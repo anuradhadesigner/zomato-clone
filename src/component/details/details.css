@@ -1,0 +1,67 @@
+.main{
+    display: inline-block;
+    width:100%;
+    margin-top: 3%;
+}
+
+.tileImage{
+    height: 550px;
+    width:48%;
+    float: left;
+}
+
+.tileContent{
+    height: 550px;
+    width:50%;
+    margin-left: 2%;
+    float: left;
+}
+
+.imageClass > img{
+    height: 500px;
+    width:95%;
+    margin-left: 3%;
+    margin-top: 3%;
+    border-radius: 5%;
+}
+.content h1{
+    color: rgb(175, 109, 10);
+    font-weight: bold;
+    font-size:30px;
+}
+.content h4{
+    color: gray;
+    font-weight: bold;
+    font-size:18px;
+    margin-left:1%;
+}
+
+#cfeedback{
+    margin-left:1%;
+    font-size: 15px;
+    font-weight: bold;
+    color:rgb(29, 102, 11)
+}
+
+.icons{
+    display: inline-block;
+    margin-left:2%
+}
+.icons >img{
+    width: 60px;
+    height:60px;
+}
+
+#stock{
+    font-size: 30px;
+    color:green
+}
+
+.button{
+    height:48px;
+    width:250px;
+    font-size:20px;
+}
+#Atoc{
+    background-color:green
+}

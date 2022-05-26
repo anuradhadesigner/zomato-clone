@@ -1,0 +1,11 @@
+.footer h3{
+    color: #fff;
+    font-size:15px;
+    font-weight:bold;
+    padding-top:20px;
+  }
+  .footer{
+      background-color: #000;
+      height:50px;
+      margin-top: 50%;
+  }
